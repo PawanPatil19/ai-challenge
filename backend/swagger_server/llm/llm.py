@@ -1,20 +1,10 @@
+from langchain_google_genai import GoogleGenerativeAI
+
 
 
 api_key = ''
+temperature = 0.5
 
-from langchain import PromptTemplate, HuggingFaceHub, LLMChain
+model = GoogleGenerativeAI(model="models/text-bison-001", convert_system_message_to_human=True, google_api_key=api_key, temperature=temperature)
 
-
-template = """Question: {question}
-
-Answer: Let's think step by step."""
-prompt = PromptTemplate(template=template, input_variables=["question"])
-
-question = "what is a cpu core?"
-
-llm=HuggingFaceHub(repo_id="bigscience/bloom", model_kwargs={"temperature":1e-10},huggingfacehub_api_token= api_key)
-llm_chain = LLMChain(prompt=prompt, llm=llm)
-
-
-
-print(llm_chain.run(question))
+print(model.invoke("explain intel i7 in 3 lines"))
