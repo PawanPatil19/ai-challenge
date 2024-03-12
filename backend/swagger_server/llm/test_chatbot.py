@@ -7,7 +7,7 @@ def extract_from_braces(string):
 
 
 def user_input(user_input):
-    api_key = 'AIzaSyDpFWQE9Oo5NM5VK-ZIdEgKnNGjZE35VRs'
+    api_key = ''
     chatbot = ChatBot(api_key=api_key)
     chatbot.start_conversation()
 
