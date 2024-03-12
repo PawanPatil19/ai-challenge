@@ -26,17 +26,28 @@ export default function Home() {
     setNewMessageText(event.target.value);
   };
 
-  const sendMessage = async () => {
+
+const sendMessage = async () => {
     console.log("Hi");
     try {
-      const response = await axios.post('/api/chat', {
-        message: newMessageText,
-      });
-      console.log(response.data); // Assuming the backend responds with some data
+        const response = await axios.post(
+            "http://localhost:4000/api/chat",
+            {
+                message: newMessageText,
+            },
+            {
+                headers: {
+                    "Access-Control-Allow-Origin": "*",
+                    "Content-Type": "application/json",
+                },
+            }
+        );
+        console.log(response.data); // Assuming the backend responds with some data
     } catch (error) {
-      console.error('Error sending message:', error);
+        console.error("Error sending message:", error);
     }
-  };
+};
+
 
   const onClick = () => {
     setMessages([
@@ -69,7 +80,7 @@ export default function Home() {
     // Function that calls the `/api/chat` endpoint and updates `messages`
     const fetchReply = async () => {
       try {
-        const response = await fetch("/api/chat", {
+        const response = await fetch("/", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

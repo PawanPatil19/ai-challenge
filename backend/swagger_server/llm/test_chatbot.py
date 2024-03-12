@@ -7,11 +7,11 @@ def extract_from_braces(string):
 
 
 def user_input(user_input):
-    api_key = ''
+    api_key = 'AIzaSyDpFWQE9Oo5NM5VK-ZIdEgKnNGjZE35VRs'
     chatbot = ChatBot(api_key=api_key)
     chatbot.start_conversation()
 
-    if user_input.lower() == 'quit':
+    if user_input == 'quit':
         print("Exiting Chatbot...")
         exit()
 
