@@ -127,6 +127,21 @@ export default function Home() {
           <span className="text-black">Your Technology Analyst</span>
         </h1>
       </div>
+      <div className="">
+        <form className="max-w-sm py-2">
+          <label className="block mb-2 text-xs font-light text-gray-900 ">
+            Select product type
+          </label>
+          <select
+            id="countries"
+            className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-indigo-600 focus:border-indigo-600 block w-full p-2.5 "
+          >
+            <option selected>Choose product</option>
+            <option value="laptops">Laptops</option>
+            <option value="mobiles">Mobile Phones</option>
+          </select>
+        </form>
+      </div>
       <div className="mx-auto w-full">
         <div className="h-[34rem] border-2 border-gray-300 rounded-lg">
           <div className="relative">
@@ -178,7 +193,7 @@ export default function Home() {
             </div>
 
             <div ref={backgroundRef} className="w-full fixed left-2 bottom-10">
-              <form className="w-4/5 mx-auto flex" onSubmit={onSubmit}>
+              <form className="w-3/5 mx-auto flex" onSubmit={onSubmit}>
                 <textarea
                   ref={textareaRef}
                   className="mr-2 grow resize-none rounded-md border-2 
