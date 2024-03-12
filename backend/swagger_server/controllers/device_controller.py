@@ -8,6 +8,7 @@ from swagger_server.models.smartphone import Smartphone  # noqa: E501
 from swagger_server.models.smartwatch import Smartwatch  # noqa: E501
 from swagger_server.models.tablet import Tablet  # noqa: E501
 from swagger_server import util
+from swagger_server.llm.test_chatbot import user_input
 
 
 def desktop_post(body):  # noqa: E501
@@ -37,7 +38,10 @@ def laptop_post(body):  # noqa: E501
     """
     if connexion.request.is_json:
         body = Laptop.from_dict(connexion.request.get_json())  # noqa: E501
-    return 'do some magic!'
+        print(body.input)
+        chatbot_answer = user_input(body.input)
+        response = Response(type="laptop", message=chatbot_answer)
+    return response
 
 
 def smartphone_post(body):  # noqa: E501

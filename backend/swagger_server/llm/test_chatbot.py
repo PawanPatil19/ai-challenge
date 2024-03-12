@@ -1,20 +1,24 @@
-from chatbot import ChatBot
+from swagger_server.llm.chatbot import ChatBot
 
-def main():
+import json
+
+def extract_from_braces(string):
+    return "{" + string[string.find("{")+1:string.find("}")] + "}"
+
+
+def user_input(user_input):
     api_key = ''
     chatbot = ChatBot(api_key=api_key)
     chatbot.start_conversation()
 
+    if user_input.lower() == 'quit':
+        print("Exiting Chatbot...")
+        exit()
 
-    while True:
-        user_input = input("You: ")
-        if user_input.lower() == 'quit':
-            print("Exiting Chatbot...")
-            break
-        # try:
-        response = chatbot.send_prompt(user_input)
-        print(f"{chatbot.CHATBOT_NAME}:{response}")
-        # except Exception as e:
-        #     print(f"Error: {e}")
-
-main()
+    response = chatbot.send_prompt(user_input)
+    #print(f"{chatbot.CHATBOT_NAME}:{response}")
+    
+    resp = extract_from_braces(response)
+    json_value = json.loads(resp)
+    print(json_value['text'])
+    return json_value['text']
