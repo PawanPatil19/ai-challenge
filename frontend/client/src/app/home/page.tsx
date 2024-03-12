@@ -3,6 +3,8 @@ import { useRouter } from "next/navigation";
 import { useState, useEffect, useRef } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import axios from "axios";
+import { send } from "process";
 
 export default function Home() {
   let router = useRouter();
@@ -24,6 +26,18 @@ export default function Home() {
     setNewMessageText(event.target.value);
   };
 
+  const sendMessage = async () => {
+    console.log("Hi");
+    try {
+      const response = await axios.post('/api/chat', {
+        message: newMessageText,
+      });
+      console.log(response.data); // Assuming the backend responds with some data
+    } catch (error) {
+      console.error('Error sending message:', error);
+    }
+  };
+
   const onClick = () => {
     setMessages([
       {
@@ -40,6 +54,7 @@ export default function Home() {
     setMessages([...messages, { role: "user", content: newMessageText }]);
     setLoadingStatus(true);
     setNewMessageText("");
+    sendMessage();
   };
 
   // `onKeyDown` event handler to send a message when the return key is hit
