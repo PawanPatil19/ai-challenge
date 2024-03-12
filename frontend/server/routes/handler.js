@@ -13,7 +13,6 @@ router.get('/', (req, res) => {
 
 router.post('/chat', (req, res) => {
     console.log(req.body);
-    res.send('Message sent to LLM');
 
     postData = JSON.stringify({
         input: req.body.message
@@ -41,6 +40,7 @@ router.post('/chat', (req, res) => {
   
       response.on('end', () => {
         console.log(data);
+        res.send(data);
       });
     });
   
@@ -54,6 +54,7 @@ router.post('/chat', (req, res) => {
   };
   
   makePost();
+  
 });
 
 

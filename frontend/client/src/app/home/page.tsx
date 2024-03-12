@@ -13,12 +13,7 @@ export default function Home() {
     router.push("/recommendations");
   }
 
-  const [messages, setMessages] = useState([
-    {
-      role: "system",
-      content: "You are a chatbot that is helpful and replies concisely",
-    },
-  ]); // An array of the messages that make up the chat
+  const [messages, setMessages] = useState([{}]); // An array of the messages that make up the chat
   const [newMessageText, setNewMessageText] = useState("");
   const [loadingStatus, setLoadingStatus] = useState(false);
 
@@ -42,7 +37,16 @@ const sendMessage = async () => {
                 },
             }
         );
-        console.log(response.data); // Assuming the backend responds with some data
+        const reply = {
+          role: "assistant",
+          content: response.data.message
+        }; 
+        const updatedMessages = [...messages, reply];
+        console.log("New: ", updatedMessages)
+        setMessages([...messages, reply]);
+        setLoadingStatus(false);
+        console.log("New: ", messages)
+        console.log(reply) // Assuming the backend responds with some data
     } catch (error) {
         console.error("Error sending message:", error);
     }
@@ -62,11 +66,22 @@ const sendMessage = async () => {
   // `onSubmit` event handler fired when the user submits a new message
   const onSubmit = async (event) => {
     event.preventDefault();
-    setMessages([...messages, { role: "user", content: newMessageText }]);
+    const updatedMessages = [...messages, { role: "user", content: newMessageText }];
+    console.log(updatedMessages)
+    setMessages(updatedMessages)
     setLoadingStatus(true);
+    //sendMessage();
+    //console.log(messages)
     setNewMessageText("");
-    sendMessage();
   };
+
+  useEffect(() => {
+    if (loadingStatus) {
+      sendMessage();
+    }
+  }, [loadingStatus]);
+
+
 
   // `onKeyDown` event handler to send a message when the return key is hit
   // The user can start a new line by pressing shift-enter
@@ -76,40 +91,7 @@ const sendMessage = async () => {
     }
   };
 
-  useEffect(() => {
-    // Function that calls the `/api/chat` endpoint and updates `messages`
-    const fetchReply = async () => {
-      try {
-        const response = await fetch("/", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ messages }),
-        });
-
-        const responseBody = await response.json();
-        const reply =
-          response.status === 200
-            ? responseBody.reply
-            : responseBody.error.reply;
-
-        setMessages([...messages, reply]);
-      } catch {
-        // Catch and handle any unexpected errors
-        const reply = {
-          role: "assistant",
-          content: "An error has occured.",
-        };
-
-        setMessages([...messages, reply]);
-      }
-      setLoadingStatus(false);
-    };
-    if (loadingStatus === true) {
-      fetchReply();
-    }
-  }, [loadingStatus]);
+ 
 
   const textareaRef = useRef(null);
   const backgroundRef = useRef(null);
@@ -196,13 +178,9 @@ const sendMessage = async () => {
                 ))}
               </div>
 
-              {loadingStatus && (
-                <div className="mx-2 mt-4">
-                  <p className="font-bold">/Placeholder/ is replying...</p>
-                </div>
-              )}
+              
 
-              {!loadingStatus && messages.length > 1 && (
+              {messages.length > 1 && (
                 <div className="mt-4 flex justify-center">
                   <button
                     className="rounded-md border-2 border-gray-400
