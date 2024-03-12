@@ -1,0 +1,420 @@
+{'product': {'id': '65ec41a514a7371ff8bfa8f3', 'brand': 'ZTE', 'model': 'ZTE Blade V41 Smart (2022) Premium Edition', 'version': 'A7050 / Blade A72s', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65ec41a514a7371ff8bfa8f2', 'brand': 'ZTE', 'model': 'ZTE Blade V41 Smart (2022)', 'version': 'A7050 / Blade A72s', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65ec41a514a7371ff8bfa8f1', 'brand': 'ZTE', 'model': 'ZTE Blade V40 Smart 4G', 'version': 'A7040 / Blade A72', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65ec41a514a7371ff8bfa8f0', 'brand': 'ZTE', 'model': 'ZTE Blade A72 (2022)', 'version': 'P606F03', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65ec41a514a7371ff8bfa8ef', 'brand': 'ZTE', 'model': 'ZTE Blade A72s (2022) 4G', 'version': 'A7050', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65eaf024b2e612cb1d2beaff', 'brand': 'ZTE', 'model': 'ZTE Blade A72s 4G', 'version': 'A7050', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65eaf024b2e612cb1d2beafe', 'brand': 'ZTE', 'model': 'ZTE Optus X Max', 'version': '2201117SG', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65eaf024b2e612cb1d2beafd', 'brand': 'ZTE', 'model': 'ZTE Blade V40 Vita', 'version': 'P606F02', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65eaf024b2e612cb1d2beafc', 'brand': 'ZTE', 'model': 'ZTE Blade V40 Vita Premium Edition', 'version': 'P606F02', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e84d208b045a864630ae83', 'brand': 'Samsung', 'model': 'Samsung Galaxy A13 (2022) Premium Edition', 'version': 'SM-A137F/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e84d208b045a864630ae81', 'brand': 'Samsung', 'model': 'Samsung Galaxy A13 (2022)', 'version': 'SM-A137F/DSN', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e84d208b045a864630ae7f', 'brand': 'Samsung', 'model': 'Samsung Galaxy F12 (2021)', 'version': 'SM-F127G/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e84d208b045a864630ae7d', 'brand': 'Samsung', 'model': 'Samsung Galaxy F15 5G (2024)', 'version': 'SM-E156B/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e84d208b045a864630ae7c', 'brand': 'Samsung', 'model': 'Samsung Galaxy F15 5G (2024) Premium Edition', 'version': 'SM-E156B/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e84d208b045a864630ae7b', 'brand': 'Samsung', 'model': 'Samsung Galaxy M32 4G (2021) Premium Edition', 'version': 'SM-M325FV/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e84d208b045a864630ae7a', 'brand': 'Samsung', 'model': 'Samsung Galaxy F34 5G (2023)', 'version': 'SM-E346B/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e84d208b045a864630ae79', 'brand': 'Samsung', 'model': 'Samsung Galaxy F34 5G (2023) Premium Edition', 'version': 'SM-E346B/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e6fba1dae0d5dbfb0e53f1', 'brand': 'Samsung', 'model': 'Samsung Galaxy M34 5G (2023)', 'version': 'SM-M346B/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e6fba1dae0d5dbfb0e53f0', 'brand': 'Samsung', 'model': 'Samsung Galaxy M34 5G (2023) Premium Edition', 'version': 'SM-M346B/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e5aa2248207d94c00f0315', 'brand': 'Samsung', 'model': 'Samsung Galaxy A05s (2023) Premium Edition', 'version': 'SM-A057M', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e5aa2248207d94c00f0314', 'brand': 'Samsung', 'model': 'Samsung Galaxy A05s (2023)', 'version': 'SM-A057M', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e4589fdfe0fcf7900c3861', 'brand': 'ZTE', 'model': 'ZTE Nubia Z60 Ultra 5G Starry Night Edition', 'version': 'NX721J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e4589fdfe0fcf7900c3860', 'brand': 'ZTE', 'model': 'ZTE Nubia Z60 Ultra 5G Premium Edition', 'version': 'NX721J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e4589fdfe0fcf7900c385f', 'brand': 'ZTE', 'model': 'ZTE Nubia Z60 Ultra 5G Top Edition', 'version': 'NX721J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e4589fdfe0fcf7900c385d', 'brand': 'ZTE', 'model': 'ZTE Nubia Z60 Ultra 5G', 'version': 'NX721J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e4589fdfe0fcf7900c385b', 'brand': 'ZTE', 'model': 'ZTE Optus X Swift 5G', 'version': '2201117SG', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e4589fdfe0fcf7900c385a', 'brand': 'Nokia', 'model': 'Nokia N93', 'version': 'N93-5', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e3071e1d5013c60fa36802', 'brand': 'ZTE', 'model': 'ZTE Axon 50 Ultra 5G', 'version': None, 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e1b5a7cdf1eef8e3f9322e', 'brand': 'Samsung', 'model': 'Samsung Galaxy A05 (2023)', 'version': 'SM-A055F/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e1b5a7cdf1eef8e3f9322d', 'brand': 'Samsung', 'model': 'Samsung Galaxy A05 (2023) Premium Edition', 'version': 'SM-A055F/DS', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8eb', 'brand': 'ZTE', 'model': 'ZTE Nubia Z5', 'version': 'NX501', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8ea', 'brand': 'ZTE', 'model': 'ZTE Nubia Z5 mini', 'version': 'NX402', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8e9', 'brand': 'ZTE', 'model': 'ZTE Nubia 5', 'version': 'NX501', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8e6', 'brand': 'ZTE', 'model': 'ZTE Nubia Z5S', 'version': 'NX503A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8e5', 'brand': 'ZTE', 'model': 'ZTE Nubia Z5S mini', 'version': 'NX403A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8e4', 'brand': 'ZTE', 'model': 'ZTE Nubia Z5S TD-LTE', 'version': 'NX503J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8e3', 'brand': 'ZTE', 'model': 'ZTE Nubia X6 TD-LTE', 'version': 'NX601J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8e1', 'brand': 'ZTE', 'model': 'ZTE Nubia Z5S mini LTE', 'version': 'NX404H', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8e0', 'brand': 'ZTE', 'model': 'ZTE Nubia Z7', 'version': 'NX506J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8df', 'brand': 'ZTE', 'model': 'ZTE Nubia Z7 Mini', 'version': 'NX507J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8de', 'brand': 'ZTE', 'model': 'ZTE Nubia Z7 Max', 'version': 'NX505J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8dd', 'brand': 'ZTE', 'model': 'ZTE Nubia 5S mini LTE', 'version': 'NX405H', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8dc', 'brand': 'ZTE', 'model': 'ZTE Nubia Z9 Max', 'version': 'NX510J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8db', 'brand': 'ZTE', 'model': 'ZTE Nubia Z9 Mini', 'version': 'NX511J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8da', 'brand': 'ZTE', 'model': 'ZTE Nubia Z9 Classic Edition', 'version': 'NX508J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8d9', 'brand': 'ZTE', 'model': 'ZTE Nubia Z9 Elite Edition', 'version': 'NX508J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8d7', 'brand': 'ZTE', 'model': 'ZTE Nubia Z9 Exclusive Edition', 'version': 'NX508J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8d6', 'brand': 'ZTE', 'model': 'ZTE Nubia My Prague Elite Edition', 'version': 'NX513J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8d5', 'brand': 'ZTE', 'model': 'ZTE Nubia My Prague', 'version': 'NX513J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8d3', 'brand': 'ZTE', 'model': 'ZTE Nubia Z9 Max Elite', 'version': 'NX518J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8d2', 'brand': 'ZTE', 'model': 'ZTE Nubia Z11', 'version': 'NX531J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8d1', 'brand': 'ZTE', 'model': 'ZTE Nubia Z11 Mini', 'version': 'NX529J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8d0', 'brand': 'ZTE', 'model': 'ZTE Nubia Z11 Max', 'version': 'NX523J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8cf', 'brand': 'ZTE', 'model': 'ZTE Nubia Z11 Elite Edition', 'version': 'NX531J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8ce', 'brand': 'ZTE', 'model': 'ZTE Nubia Z11 Black Gold Edition', 'version': 'NX531J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8cd', 'brand': 'ZTE', 'model': 'ZTE Nubia N1', 'version': 'NX541J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8c9', 'brand': 'ZTE', 'model': 'ZTE Nubia Z11 Mini S', 'version': 'NX549J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8c8', 'brand': 'ZTE', 'model': 'ZTE Nubia M2 Lite', 'version': 'NX573J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8c7', 'brand': 'ZTE', 'model': 'ZTE Nubia M2', 'version': 'NX551J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8c4', 'brand': 'ZTE', 'model': 'ZTE Nubia N2', 'version': 'NX575J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8c3', 'brand': 'ZTE', 'model': 'ZTE Nubia Z17 Mini', 'version': 'NX569J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8c2', 'brand': 'ZTE', 'model': 'ZTE Nubia Z17 Mini Premium Edition', 'version': 'NX569H', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8c1', 'brand': 'ZTE', 'model': 'ZTE Nubia Z17', 'version': 'NX563J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8c0', 'brand': 'ZTE', 'model': 'ZTE Nubia Z17 Premium Edition', 'version': 'NX563H', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8bd', 'brand': 'ZTE', 'model': 'ZTE Nubia M2 Play', 'version': 'NX907J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8ba', 'brand': 'ZTE', 'model': 'ZTE Nubia Z17 Lite', 'version': 'NX591J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8b9', 'brand': 'ZTE', 'model': 'ZTE Nubia Z17 mini S', 'version': 'NX589J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8b8', 'brand': 'ZTE', 'model': 'ZTE Nubia Z17S', 'version': 'NX595J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8b7', 'brand': 'ZTE', 'model': 'ZTE Nubia Z17S Premium Edition', 'version': 'NX595J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8b6', 'brand': 'ZTE', 'model': 'ZTE Nubia V18', 'version': 'NX612J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8b5', 'brand': 'ZTE', 'model': 'ZTE Nubia N3', 'version': 'NX608J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8b4', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic', 'version': 'NX609J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8b3', 'brand': 'ZTE', 'model': 'ZTE Nubia Z18 mini', 'version': 'NX611J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8b0', 'brand': 'ZTE', 'model': 'ZTE Nubia Z18 Van Gogh Edition', 'version': 'NX606J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8af', 'brand': 'ZTE', 'model': 'ZTE Nubia Z18', 'version': 'NX606J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8ae', 'brand': 'ZTE', 'model': 'ZTE Nubia X Premium Edition', 'version': 'NX616J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8ad', 'brand': 'ZTE', 'model': 'ZTE Nubia X', 'version': 'NX616J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8ab', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic Mars', 'version': 'NX619J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8a8', 'brand': 'ZTE', 'model': 'ZTE Nubia X Starry Night Collector Edition', 'version': 'NX616J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8a7', 'brand': 'ZTE', 'model': 'ZTE Nubia M3', 'version': 'NX611J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8a6', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 3', 'version': 'NX629J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8a4', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 3 Premium Edition', 'version': 'NX629J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8a1', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 3S Premium Edition', 'version': 'NX629J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc8a0', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 3S', 'version': 'NX629J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc89e', 'brand': 'ZTE', 'model': 'ZTE Nubia Z20', 'version': 'NX627J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc89c', 'brand': 'ZTE', 'model': 'ZTE Nubia Z20 Premium Edition', 'version': 'NX627J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc899', 'brand': 'ZTE', 'model': 'ZTE Nubia Play 5G Premium Edition', 'version': 'NX651J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc897', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 5G Lite Premium Edition', 'version': 'NX651J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc896', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 6R 5G Premium Edition', 'version': 'NX666J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc895', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 6R 5G', 'version': 'NX666J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc893', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7S 5G Base Edition', 'version': 'NX679S', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc892', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7S 5G', 'version': 'NX679S', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc891', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7S 5G Premium Edition', 'version': 'NX679S', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc890', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7S Pro 5G Transformers Edition', 'version': 'NX709S', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc88f', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7S Pro 5G', 'version': 'NX709S', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc88e', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7S Pro 5G Premium Edition', 'version': 'NX709S', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc88d', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7S Pro 5G Top Edition', 'version': 'NX709S', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc88c', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7 5G Base Edition', 'version': 'NX679J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc88b', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7 5G', 'version': 'NX679J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc889', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7 5G Premium Edition', 'version': 'NX679J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc887', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7 5G Top Edition', 'version': 'NX679J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc885', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7 Pro 5G', 'version': 'NX709J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc884', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7 Pro 5G Top Edition', 'version': 'NX709J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc881', 'brand': 'ZTE', 'model': 'ZTE Nubia Red Magic 7 Pro 5G Premium Edition', 'version': 'NX709J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc87c', 'brand': 'ZTE', 'model': 'ZTE Nubia Z40S Pro 5G Top Edition', 'version': 'NX702J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc87b', 'brand': 'ZTE', 'model': 'ZTE Nubia Z40S Pro 5G Premium Edition', 'version': 'NX702J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc87a', 'brand': 'ZTE', 'model': 'ZTE Nubia Z40S Pro 5G', 'version': 'NX702J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc879', 'brand': 'ZTE', 'model': 'ZTE Nubia Z40 Pro 5G Premium Edition', 'version': 'NX701J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc877', 'brand': 'ZTE', 'model': 'ZTE Nubia Z40 Pro 5G', 'version': 'NX701J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc876', 'brand': 'ZTE', 'model': 'ZTE Nubia Z40 Pro 5G Gravity Edition', 'version': 'NX701J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc873', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50 5G', 'version': 'NX711J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc871', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50 5G Premium Edition', 'version': 'NX711J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc86f', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50 5G Top Edition', 'version': 'NX711J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc86e', 'brand': 'ZTE', 'model': 'ZTE Tianji A41 5G', 'version': 'A2023BH', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc86b', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50 Ultra 5G Photographer Edition', 'version': 'NX712J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc86a', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50 Ultra 5G', 'version': 'NX712J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc869', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50 Ultra 5G Premium Edition', 'version': 'NX712J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc867', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50 Ultra 5G Top Edition', 'version': 'NX712J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc865', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50S Pro 5G Top Edition', 'version': 'NX713J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc864', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50S Pro 5G', 'version': 'NX713J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc863', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50S Pro 5G Premium Edition', 'version': 'NX713J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65e0642cd2e444d3d0fbc861', 'brand': 'ZTE', 'model': 'ZTE Nubia Z50 5G Urban Outdoor Edition', 'version': 'NX711J', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65df12a33cceb079c7b3a3bd', 'brand': 'Samsung', 'model': 'Samsung Galaxy A25 5G (2024)', 'version': 'SM-A256U / SM-A256R4', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65dc6faafe9c0d231687609c', 'brand': 'Samsung', 'model': 'Samsung Galaxy A25 5G (2024) Premium Edition', 'version': 'SM-A256E/N', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65db1e1f3dcb64633783c5de', 'brand': 'Samsung', 'model': 'Samsung Galaxy A14 4G (2023)', 'version': 'SM-A145M', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A15 4G (2024)', 'version': 'SM-A155F/N', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A15 4G (2024) Top Edition', 'version': 'SM-A155F/DSN', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A15 4G (2024) Premium Edition', 'version': 'SM-A155F/DSN', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A15 5G (2024) Top Edition', 'version': 'SM-A156M/DSN', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A15 5G (2024)', 'version': 'SM-A156M/DSN', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A15 5G (2024) Premium Edition', 'version': 'SM-A156E/DSN', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y35+ 5G (2023)', 'version': 'V2279A / Y35m+', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y100i 5G (2023) Large Battery Edition', 'version': 'V2312BA', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y100i 5G (2023)', 'version': 'V2279A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y100i 5G (2023) Premium Edition', 'version': 'V2279A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo A79 5G (2023)', 'version': 'A303OP', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo A79 5G (2023) Premium Edition', 'version': 'CPH2553', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y36i 5G (2023)', 'version': 'V2318A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y36 5G (2023) Top Edition', 'version': 'V2318A / Y36m', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y36 5G (2023) Premium Edition', 'version': 'V2318A / Y36m', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y36 5G (2023)', 'version': 'V2318A / Y36m', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65d7299fce4ffc3791ad6c9c', 'brand': 'Samsung', 'model': 'Samsung Galaxy S24 5G', 'version': 'SM-S921B', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy S23 5G', 'version': 'SM-S911U1', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy S24 5G Premium Edition', 'version': 'SM-S9210', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65d5d8208b05dddd04c29c8a', 'brand': 'Samsung', 'model': 'Samsung Galaxy S24+ 5G', 'version': 'SM-S926N', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65d486a99cbc18e5c964e5bf', 'brand': 'Samsung', 'model': 'Samsung Galaxy S23 FE 5G', 'version': 'SM-S711B', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'id': '65d486a99cbc18e5c964e5bd', 'brand': 'Samsung', 'model': 'Samsung Galaxy S24 Ultra 5G', 'version': 'SM-S928B', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y100A 5G (2023)', 'version': 'V2222', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo X100 Pro 5G Premium Edition', 'version': 'V2309', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo X100 Pro 5G Turbo Edition', 'version': 'V2324A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo X100 Pro 5G', 'version': 'V2324A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo X100 5G', 'version': 'V2309A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo X100 5G Premium Edition', 'version': 'V2309A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo X100 5G Turbo Edition', 'version': 'V2309A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y100 5G', 'version': 'V2327', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y100 5G (2023)', 'version': 'V2313A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y100 5G (2023) Premium Edition', 'version': 'V2313A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S17 Pro 5G (2023)', 'version': 'V2284A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S17 Pro 5G (2023) Premium Edition', 'version': 'V2284A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S17t 5G (2023) Premium Edition', 'version': 'V2282A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S17 5G (2023)', 'version': 'V2283A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S17 5G (2023) Premium Edition', 'version': 'V2283A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno10 5G (2023)', 'version': 'CPH2531', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno10 Pro 5G Premium Edition', 'version': 'PHV110', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno10 Pro 5G (2023)', 'version': 'CPH2525', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno10 5G (2023) Premium Edition', 'version': 'PHW110', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno10 Pro+ 5G', 'version': 'CPH2521', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno10 Pro+ 5G Premium Edition', 'version': 'PHU110', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S17e 5G', 'version': 'V2285A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y78t 5G (2023)', 'version': 'V2312BA', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y78t 5G (2023) Premium Edition', 'version': 'V2312BA', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y78+ 5G (2023)', 'version': 'V2271A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y78+ 5G (2023) Premium Edition', 'version': 'V2271A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme C67 4G (2023)', 'version': 'RMX3891', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme C67 4G NFC (2023)', 'version': 'RMX3890', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 5G (2023)', 'version': 'RMX3751', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 5G (2023) Premium Edition', 'version': 'RMX3751', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme Narzo 60 5G (2023)', 'version': 'RMX3750', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S17e 5G Premium Edition', 'version': 'V2285A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 10 (2022) Premium Edition', 'version': 'RMX3630', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 10 4G (2022)', 'version': 'RMX3630', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 4G (2023) Premium Edition', 'version': 'RMX3635', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 4G NFC (2023) Premium Edition', 'version': 'RMX3636', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 (2023) Premium Edition NFC', 'version': 'RMX3635', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11x 5G NFC (2023) Premium Edition', 'version': 'RMX3784', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11x 5G (2023) Premium Edition', 'version': 'RMX3785', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11x 5G (2023)', 'version': 'RMX3785', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Narzo 60x 5G (2023) Premium Edition', 'version': 'RMX3782', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Narzo 60x 5G (2023)', 'version': 'RMX3782', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme C67 5G (2023)', 'version': 'RMX3782', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme C67 5G (2023) Premium Edition', 'version': 'RMX3782', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme V50 5G (2023)', 'version': 'RMX3783 / V50s', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme V50 5G (2023) Premium Edition', 'version': 'RMX3783 / V50s', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 5G NFC (2023)', 'version': 'RMX3781', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 Pro 5G NFC (2023) Premium Edition', 'version': 'RMX3770', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 Pro 5G NFC (2023)', 'version': 'RMX3770', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 Pro 5G (2023)', 'version': 'RMX3771', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 Pro 5G (2023) Premium Edition', 'version': 'RMX3771', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto G53s 5G (2023)', 'version': 'XT2335-6', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 Pro+ 5G NFC (2023)', 'version': 'RMX3740', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 Pro+ 5G NFC (2023) Premium Edition', 'version': 'RMX3740', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 Pro+ 5G (2023) Premium Edition', 'version': 'RMX3741', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 11 Pro+ 5G (2023)', 'version': 'RMX3741', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y77t 5G (2023)', 'version': 'V2278A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y78 5G (2023)', 'version': 'V2278A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y78 5G (2023) Premium Edition', 'version': 'V2278A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo Y77t 5G (2023) Premium Edition', 'version': 'V2278A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera DuraForce Ultra 5G', 'version': 'E7110', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera Torque G05 5G', 'version': 'KYG01', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Nothing', 'model': 'Nothing Phone (2) 5G', 'version': 'A065', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Nothing', 'model': 'Nothing Phone (2) 5G Premium Edition', 'version': 'AIN065', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'HTC', 'model': 'HTC Desire 728', 'version': 'D728w', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'HTC', 'model': 'HTC Desire 728G', 'version': '728G', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'HTC', 'model': 'HTC U23 5G', 'version': None, 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'HTC', 'model': 'HTC U23 Pro 5G', 'version': 'TW 256GB', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'HTC', 'model': 'HTC U23 Pro 5G Premium Edition', 'version': 'TW 256GB', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera DuraForce Pro', 'version': 'E6830 / E6833', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera Torque G06 5G', 'version': 'KYG03', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera DuraForce EX', 'version': 'KC-S703', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia XR21 (2023) 5G Limited Edition', 'version': None, 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera DuraForce Pro 3 5G', 'version': 'E7200', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Asus', 'model': 'Asus Zenfone 10 5G', 'version': 'AI2302', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Asus', 'model': 'Asus Zenfone 10 5G Premium Edition', 'version': 'AI2302', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung W24 Flip 5G', 'version': 'SM-W7024', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung W24 5G', 'version': 'SM-W9024', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy Z Flip 5 5G Maison Margiela Edition', 'version': 'SM-F7310', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy Z Fold5 5G Thom Browne Edition', 'version': 'SM-F9460', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy Z Fold5 5G  Thom Browne Edition', 'version': 'SM-F946N', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy Z Flip 5 5G Maison Margiela Limited Edition', 'version': 'SM-F731N', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy Z Fold5 5G', 'version': 'SM-F946U1', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy Z Flip 5 5G Retro Limited Edition', 'version': 'SM-F731B', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy Z Flip 5 5G', 'version': 'SM-F731N', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos V6', 'version': 'SH-C03', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos V6 Plus', 'version': 'SH-C04', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos V7 Plus', 'version': 'SH-C06', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos Sense5G', 'version': 'SH-S50', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos Sense 7 5G', 'version': 'SH-S70', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos Sense 7 Plus 5G', 'version': 'SH-S70P', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos Sense 8 5G', 'version': 'SH-M26TW', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos Wish 3 5G', 'version': 'A303SH', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos R7s 5G', 'version': 'SH-R70', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos R8 Pro 5G', 'version': 'A301SH', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos R8s 5G', 'version': 'SH-R80', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos R8 5G', 'version': 'SH-R80', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Sharp', 'model': 'Sharp Aquos R8s Pro 5G', 'version': 'SH-R80P', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Apple', 'model': 'Apple iPhone 15', 'version': 'A3089', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT Neo5 SE 5G', 'version': 'RMX3700', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT Neo5 SE 5G Top Edition', 'version': 'RMX3700', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT Neo5 SE 5G Premium Edition', 'version': 'RMX3700', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Apple', 'model': 'Apple iPhone 15 Plus', 'version': 'A3096', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto G52j 5G (2023) Special', 'version': 'XT2219-1', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Apple', 'model': 'Apple iPhone 15 Pro', 'version': 'A3101', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Apple', 'model': 'Apple iPhone 15 Pro Max', 'version': 'A3105', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Poco M6 Pro 5G Top Edition', 'version': '23076PC4BI', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Poco M6 Pro 5G Premium Edition', 'version': '23076PC4BI', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Poco M6 Pro 5G', 'version': '23076PC4BI', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Redmi 12 5G XIG03', 'version': '23076RA4BR', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Redmi 12 5G Premium Edition', 'version': '23076RN4BI', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Redmi 12 5G', 'version': '23076RN4BI', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto G52j II 5G (2023)', 'version': 'XT2219-1', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo X Flip 5G', 'version': 'V2256A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme C55 (2023) Premium Edition', 'version': 'RMX3710', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme C55 (2023) Base Edition', 'version': 'RMX3710', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme C55 (2023)', 'version': 'RMX3710', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo X Fold2 5G (2023)', 'version': 'V2266A', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Redmi 12 5G Top Edition', 'version': '23076RN4BI', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Mi Mix Fold 2 (2022) 5G Premium Edition', 'version': '22061218C', 'category': 'Smartphones'}, 'image': {'thumbnail': None, 'large': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT3 5G (2023) 240W Premium Edition', 'version': 'RMX3709', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno9 A 5G (2023)', 'version': 'CPH2523', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno 9 A 5G (2023)', 'version': 'A301OP', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo A58x 5G (2022) Premium Edition', 'version': 'PHJ110 / A1x', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo A58x 5G (2022)', 'version': 'PHJ110 / A1x', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo F23 5G', 'version': 'CPH2527', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo A98 5G', 'version': 'CPH2529', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 9i 5G (2022)', 'version': 'RMX3612', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 9i 5G (2022) Premium Edition', 'version': 'RMX3612', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Sony', 'model': 'Sony Xperia 10 V 5G', 'version': 'SOG11', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei nova 11i 4G', 'version': 'MAO-LX9 / MAO-L29', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Enjoy 60 Pro 4G', 'version': 'MAO-AL00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei nova 11 4G', 'version': 'FOA-AL00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Mi 13 Ultra 5G', 'version': '2304FPN6DG', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A24 4G (2023)', 'version': 'SM-A245N', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A24 4G (2023) Premium Edition', 'version': 'SM-A245M/DSN', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Samsung', 'model': 'Samsung Galaxy A24 4G (2023) Top Edition', 'version': 'SM-A245M/DSN', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Meizu', 'model': 'Meizu 20 Pro 5G Premium Edition', 'version': 'M391Q', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Meizu', 'model': 'Meizu 20 Pro 5G', 'version': 'M391Q', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Meizu', 'model': 'Meizu 20 Infinity 5G', 'version': 'M392Q', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Meizu', 'model': 'Meizu 20 Infinity 5G Premium Edition', 'version': 'M392Q', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 10T 5G (2023)', 'version': 'RMX3612', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme 10T 5G (2023) Premium Edition', 'version': 'RMX3612', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Mi 13 Ultra 5G Premium Edition', 'version': '2304FPN6DC', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Meizu', 'model': 'Meizu 20 5G Classic', 'version': 'M381Q', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Meizu', 'model': 'Meizu 20 5G', 'version': 'M381Q', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Asus', 'model': 'Asus ZenFone Go TV', 'version': 'ZB551KL', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Google', 'model': 'Google Pixel 8 Pro', 'version': 'GC3VE', 'category': 'Smartphones'}, 'image': {}}
+{'product': {'brand': 'Google', 'model': 'Google Pixel 8', 'version': 'GKWS6', 'category': 'Smartphones'}, 'image': {}}
+{'product': {'brand': 'Alcatel', 'model': 'Alcatel One Touch POP C7', 'version': '7040D', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Alcatel', 'model': 'Alcatel One Touch Fierce 2', 'version': '7040T', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'ZTE', 'model': 'ZTE Yuanhang40 5G', 'version': 'Yuanhang40 / Voyage 40', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'ZTE', 'model': 'ZTE Yuanhang41 5G', 'version': '7541N / Voyage 41', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'ZTE', 'model': 'ZTE Yuanhang40 5G Premium Edition', 'version': 'Yuanhang40 / Voyage 40', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'ZTE', 'model': 'ZTE Yuanhang20 Pro 5G / Voyage 20 Pro', 'version': '9040N', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'ZTE', 'model': 'ZTE Yuanhang40 Pro+ 5G', 'version': '9042N', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'ZTE', 'model': 'ZTE Yuanhang30 Pro+ 5G', 'version': '9041N', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'ZTE', 'model': 'ZTE Yuanhang30 5G Premium Edition', 'version': '7532N', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'ZTE', 'model': 'ZTE Yuanhang30 5G', 'version': '7532N / Voyage 30', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei nova 11 Pro 4G', 'version': 'GOA-LX9 / GOA-L29', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei nova 11 Ultra 4G', 'version': 'GOA-AL80U', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Nova Y70', 'version': 'MGA-LX3 / MGA-L03', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Nova Y70 Plus', 'version': 'MGA-LX9 / MGA-L09', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Nova Y71', 'version': 'MGA-LX9 / MGA-L29', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Wiko Hi Changxiang 60 5G', 'version': 'GAR-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Enjoy 60X 4G', 'version': 'STG-AL00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor 70 Lite 5G', 'version': 'RBN-NX1 / X8a / X6', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor X50i 5G Premium Edition', 'version': 'CRT-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor X50i 5G', 'version': 'CRT-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Nova Y91 4G', 'version': 'STG-LX2', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Mate X 3 4G Collector Edition', 'version': 'ALT-AL00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Mate X 3 4G', 'version': 'ALT-AL00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor Magic 5 Lite 5G Premium Edition', 'version': 'RMO-NX3', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor Magic 5 5G Premium Edition', 'version': 'PGT-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor Magic 5 5G Base Edition', 'version': 'PGT-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor Magic 5 5G', 'version': 'PGT-N09', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor X8a 5G', 'version': 'RBN-NX3', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Enjoy 60 / Changxiang 60', 'version': 'MGA-AL40', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor Magic 5 Pro 5G', 'version': 'PGT-N19 / PGT-NX9', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor Magic 5 Pro 5G Premium Edition', 'version': 'PGT-AN10', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor Magic 5 Ultimate 5G', 'version': 'PGT-AN20', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor Magic 5 Pro 5G Base Edition', 'version': 'PGT-AN10', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Find X6 5G', 'version': 'PGFM10', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor 80 Pro Flat Screen Edition 5G', 'version': 'ANB-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Find X6 5G Premium Edition', 'version': 'PGFM10', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor 80 Pro 5G Premium Edition', 'version': 'ANP-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor 80 Pro 5G', 'version': 'ANP-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor 80 5G Premium Edition', 'version': 'ANN-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor 80 5G', 'version': 'ANN-AN00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei P60 Art 4G', 'version': 'MNA-LX9 / MNA-L29', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei P60 4G', 'version': 'LNA-AL00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei P60 Pro 4G', 'version': 'MNA-LX9 / MNA-L09', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei P60 Pro 4G Premium Edition', 'version': 'MNA-AL00', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Find X6 Pro 5G', 'version': 'PGEM10', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Find X6 Pro 5G Premium Edition', 'version': 'PGEM10', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor X7a', 'version': 'RKY-LX2 / RKY-L22', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor X7a Premium Edition', 'version': 'RKY-LX2 / RKY-L22', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor X8a 4G Premium Edition', 'version': 'CRT-LX3 / CRT-L23', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor X8a 4G', 'version': 'CRT-LX1 / CRT-L21', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo V27 5G Premium Edition', 'version': 'V2231', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo V27 Pro 5G', 'version': 'V2230', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo V27 Pro 5G Premium Edition', 'version': 'V2230', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'OnePlus', 'model': 'OnePlus Nord CE 3 Lite 5G', 'version': 'CPH2467', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo V27 5G', 'version': 'V2246', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'OnePlus', 'model': 'OnePlus Nord CE 3 5G', 'version': 'CPH2569', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera Easy Smartphone 3 5G', 'version': 'A205KC / Kantan 3', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'OnePlus', 'model': 'OnePlus Nord CE 3 5G Premium Edition', 'version': 'CPH2569', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo K11x 5G (2023)', 'version': 'PHF110', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo K11x 5G (2023) Premium Edition', 'version': 'PHF110', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'OnePlus', 'model': 'OnePlus Ace 2V 5G Premium Edition', 'version': 'PHP110', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'OnePlus', 'model': 'OnePlus Ace 2V 5G Top Edition', 'version': 'PHP110', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'OnePlus', 'model': 'OnePlus Nord 3 5G', 'version': 'CPH2491', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'OnePlus', 'model': 'OnePlus Nord 3 5G Top Edition', 'version': 'CPH2491', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia G20 (2021)', 'version': 'G20', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia XR21 (2023) 5G', 'version': 'XR21', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT Neo 5 5G (2023) 240W Premium Edition', 'version': 'RMX3708', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT Neo 5 5G (2023)', 'version': 'RMX3706', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia XR21 (2023) 5G Premium Edition', 'version': None, 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT Neo 5 5G (2023) 150W Base Edition', 'version': 'RMX3706', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT Neo 5 5G (2023) 150W Premium Edition', 'version': 'RMX3706', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'TCL', 'model': 'TCL 40 SE', 'version': 'T610E', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Realme GT Neo 5 5G (240W) Premium Edition', 'version': 'RMX3706', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia X10 (2021) 5G Premium Edition', 'version': None, 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia X10 (2021) 5G', 'version': None, 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia XR20 (2021) 5G', 'version': 'XR20', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia X30 (2022) 5G', 'version': 'X30', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Nokia', 'model': 'Nokia X30 (2022) 5G Premium Edition', 'version': None, 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'TCL', 'model': 'TCL 40 SE Premium Edition', 'version': 'T610K2', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Defy 2 5G', 'version': 'NTN', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Caterpillar', 'model': 'Caterpillar CAT S75 5G', 'version': 'BM1S1B', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno8 T 5G', 'version': 'CPH2505', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno8 T 5G (2023)', 'version': 'CPH2505', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Oppo', 'model': 'Oppo Reno8 T 4G (2023)', 'version': 'CPH2481', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'TCL', 'model': 'TCL 405', 'version': 'T506D', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'TCL', 'model': 'TCL 408', 'version': 'T507D', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'TCL', 'model': 'TCL 408 NFC Premium Edition', 'version': 'T507U / T507U1', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'TCL', 'model': 'TCL 408 Premium Edition', 'version': 'T507A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola RAZR 40s 5G (2023)', 'version': 'XT2323-7', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola RAZR 40 5G (2023)', 'version': 'XT2323-4', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola RAZR 40 5G (2023) Premium Edition', 'version': 'XT2323-3', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera DIGNO SX3', 'version': 'KYG02', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Kyocera', 'model': 'Kyocera Android One S10', 'version': 'S10-KC', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK vivo iQOO 11S 5G Premium Edition', 'version': 'V2304A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK vivo iQOO 11S 5G', 'version': 'V2304A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK vivo iQOO 11 5G', 'version': 'V2243A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK vivo iQOO 11 5G Top Edition', 'version': 'V2243A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK vivo iQOO 11 5G Premium Edition', 'version': 'V2243A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK vivo iQOO 11 Pro 5G Top Edition', 'version': 'V2254A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK vivo iQOO 11 Pro 5G', 'version': 'V2254A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK vivo iQOO 11 Pro 5G Premium Edition', 'version': 'V2254A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto G Play (2023)', 'version': 'XT2271DL', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto G Play (2023) 2nd gen', 'version': 'XT2271-1 / XT2271-1PP', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Reliance', 'model': 'Reliance Orbic Fun+ 4G', 'version': 'RC609LP', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola RAZR+ 5G (4th gen 2023)', 'version': 'XT2321-5', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola RAZR 40 Ultra 5G (4th gen 2023)', 'version': 'XT2321-2', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto Edge 40 5G (2023)', 'version': 'XT2303-2', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto G 5G (2023) 2nd gen', 'version': 'XT2313-4', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto G Stylus 5G (2023)', 'version': 'XT2315-5', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto G Stylus 5G (2023) 4th gen', 'version': 'XT2315-1', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S16 5G (2022)', 'version': 'V2244A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S16 5G (2022) Premium Edition', 'version': 'V2244A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S16 Pro 5G', 'version': 'V2245A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S16 Pro 5G Premium Edition', 'version': 'V2245A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto Edge+ 5G (2023) 3rd gen', 'version': 'XT2301-1', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto Edge 40 Pro 5G (2023) Premium Edition', 'version': 'XT2301-4', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S16e 5G', 'version': 'V2239A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'BBK', 'model': 'BBK Vivo S16e 5G Premium Edition', 'version': 'V2239A', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Redmi A1', 'version': '220733SL', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Xiaomi', 'model': 'Xiaomi Redmi A1 Premium Edition', 'version': '220733SL', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Huawei', 'model': 'Huawei Honor X5 4G', 'version': 'VNA-LX3 / VNA-L03', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto Edge 40 Pro 5G (2023)', 'version': 'XT2301-4', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto X40 5G (2023)', 'version': 'XT2301-5', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}
+{'product': {'brand': 'Motorola', 'model': 'Motorola Moto X40 5G (2023) Premium Edition', 'version': 'XT2301-5', 'category': 'Smartphones'}, 'image': {'front': None, 'back': None}}

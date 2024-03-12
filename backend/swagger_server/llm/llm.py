@@ -1,10 +1,29 @@
-from langchain_google_genai import GoogleGenerativeAI
 
+import google.generativeai as genai
+from IPython.display import display
 
 
 api_key = ''
-temperature = 0.5
 
-model = GoogleGenerativeAI(model="models/text-bison-001", convert_system_message_to_human=True, google_api_key=api_key, temperature=temperature)
+genai.configure(api_key=api_key)
+model = genai.GenerativeModel('gemini-pro')
 
-print(model.invoke("explain intel i7 in 3 lines"))
+chat = model.start_chat(history=[])
+chat
+
+
+
+response = chat.send_message("What is the meaning of life?")
+print(response.text)
+print(chat.history)
+result = genai.embed_content(
+    model = 'models/embedding-001',
+    content = chat.history)
+
+
+
+
+
+
+
+
