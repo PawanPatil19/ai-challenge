@@ -21,6 +21,7 @@ export default function Home() {
   ]); // An array of the messages that make up the chat
   const [newMessageText, setNewMessageText] = useState("");
   const [loadingStatus, setLoadingStatus] = useState(false);
+  const [request_params, setRequestParams] = useState("");
 
   const onChange = (event) => {
     setNewMessageText(event.target.value);
@@ -42,7 +43,13 @@ const sendMessage = async () => {
                 },
             }
         );
-        console.log(response.data); // Assuming the backend responds with some data
+        console.log(response.data);
+        const reply = {
+            role: "assistant",
+            content: response.data.message,
+        };
+        //setMessages([...messages, reply]);
+        
     } catch (error) {
         console.error("Error sending message:", error);
     }
@@ -63,9 +70,10 @@ const sendMessage = async () => {
   const onSubmit = async (event) => {
     event.preventDefault();
     setMessages([...messages, { role: "user", content: newMessageText }]);
+    setRequestParams(newMessageText)
     setLoadingStatus(true);
     setNewMessageText("");
-    sendMessage();
+    //sendMessage();
   };
 
   // `onKeyDown` event handler to send a message when the return key is hit
@@ -79,31 +87,30 @@ const sendMessage = async () => {
   useEffect(() => {
     // Function that calls the `/api/chat` endpoint and updates `messages`
     const fetchReply = async () => {
-      try {
-        const response = await fetch("/", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ messages }),
-        });
-
-        const responseBody = await response.json();
-        const reply =
-          response.status === 200
-            ? responseBody.reply
-            : responseBody.error.reply;
-
-        setMessages([...messages, reply]);
-      } catch {
-        // Catch and handle any unexpected errors
-        const reply = {
-          role: "assistant",
-          content: "An error has occured.",
-        };
-
-        setMessages([...messages, reply]);
-      }
+        try {
+            const response = await axios.post(
+                "http://localhost:4000/api/chat",
+                {
+                    message: request_params,
+                },
+                {
+                    headers: {
+                        "Access-Control-Allow-Origin": "*",
+                        "Content-Type": "application/json",
+                    },
+                }
+            );
+            console.log(response.data);
+            const reply = {
+                role: "assistant",
+                content: response.data.message,
+            };
+            setMessages([...messages, reply]);
+            setNewMessageText("");
+            
+        } catch (error) {
+            console.error("Error sending message:", error);
+        }
       setLoadingStatus(false);
     };
     if (loadingStatus === true) {
