@@ -28,6 +28,7 @@ class ChatBot:
         )
         
         response.resolve()
+
         return f'{response.text}\n' + '---' *20
         # except Exception as e:
         #     raise GenAIException(e.message)
