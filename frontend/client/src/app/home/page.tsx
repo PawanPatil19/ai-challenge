@@ -72,7 +72,7 @@ const sendMessage = async () => {
     setMessages([...messages, { role: "user", content: newMessageText }]);
     setRequestParams(newMessageText)
     setLoadingStatus(true);
-    setNewMessageText("");
+    //setNewMessageText("");
     //sendMessage();
   };
 
@@ -166,19 +166,19 @@ const sendMessage = async () => {
             Select product type
           </label>
           <select
-            id="countries"
+            id="countries" defaultValue={"laptops"}
             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-indigo-600 focus:border-indigo-600 block w-full p-2.5 "
           >
-            <option selected>Choose product</option>
+            <option value="def">Choose product</option>
             <option value="laptops">Laptops</option>
             <option value="mobiles">Mobile Phones</option>
           </select>
         </form>
       </div>
       <div className="mx-auto w-full">
-        <div className="h-[34rem] border-2 border-gray-300 rounded-lg">
+        <div className="h-[25rem] border-2 border-gray-300 rounded-lg overflow-scroll">
           <div className="relative">
-            <div className="overflow-scroll">
+            <div className="">
               {messages.length === 1 && (
                 <div className="mx-10 mt-20 flex justify-center">
                   <div>
@@ -222,15 +222,15 @@ const sendMessage = async () => {
                 </div>
               )}
 
-              <div ref={whitespaceRef} className="z-0"></div>
+              <div ref={whitespaceRef} className="z-2"></div>
             </div>
 
             <div ref={backgroundRef} className="w-full fixed left-2 bottom-10">
-              <form className="w-3/5 mx-auto flex" onSubmit={onSubmit}>
+              <form className="w-10/12 mx-auto flex" onSubmit={onSubmit}>
                 <textarea
                   ref={textareaRef}
-                  className="mr-2 grow resize-none rounded-md border-2 
-                                            border-gray-400 p-2 focus:border-indigo-600 
+                  className="mr-2 grow resize-none rounded-md border-2 p-2
+                                            border-gray-400 focus:border-indigo-600 
                                                 focus:outline-none"
                   value={newMessageText}
                   onChange={onChange}
@@ -248,7 +248,7 @@ const sendMessage = async () => {
                   </button>
                 ) : (
                   <button
-                    className="h-11 rounded-full border-2 border-indigo-800
+                    className="h-11 rounded-full border-2 border-indigo-800 p-2
                                                 bg-indigo-600 px-4 py-1 hover:border-indigo-700 
                                                 hover:bg-indigo-700"
                     type="submit"
