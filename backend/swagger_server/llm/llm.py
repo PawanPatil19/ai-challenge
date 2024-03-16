@@ -3,7 +3,7 @@ import google.generativeai as genai
 from IPython.display import display
 
 
-api_key = ''
+api_key = 'AIzaSyDpFWQE9Oo5NM5VK-ZIdEgKnNGjZE35VRs'
 
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-pro')
