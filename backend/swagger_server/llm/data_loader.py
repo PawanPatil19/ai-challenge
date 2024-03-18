@@ -6,7 +6,7 @@ from json_loader import JSONLoader
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.chains.question_answering import RetrievalQA
+from langchain.chains import RetrievalQA
 
 #how to import the JSONLoader class from the json_loader.py file
 
@@ -28,7 +28,7 @@ api_key = 'AIzaSyDpFWQE9Oo5NM5VK-ZIdEgKnNGjZE35VRs'
 genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-pro')
 
-file_path='swagger_server\llm\laptops.json'
+file_path='laptops.json'
 loader = JSONLoader(file_path=file_path)
 data = loader.load()
 
